@@ -1,5 +1,5 @@
 # Digital-Clock-in-C
-This is a crude implementation of Digital clock.
+This is a crude implementation of Digital clock in Visual Studio.
 
 1. The time is intially set in hr, min and second variables
 2. The if statements increment the respective hr, sec and min counters
